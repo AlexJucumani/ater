@@ -1,0 +1,5 @@
+C:\Users\DHARZZ\documents\visual studio 2017\Projects\GAMERCENTER\modelogamer\bin\Debug\modelogamer.dll
+C:\Users\DHARZZ\documents\visual studio 2017\Projects\GAMERCENTER\modelogamer\bin\Debug\modelogamer.pdb
+C:\Users\DHARZZ\documents\visual studio 2017\Projects\GAMERCENTER\modelogamer\obj\Debug\modelogamer.csprojResolveAssemblyReference.cache
+C:\Users\DHARZZ\documents\visual studio 2017\Projects\GAMERCENTER\modelogamer\obj\Debug\modelogamer.dll
+C:\Users\DHARZZ\documents\visual studio 2017\Projects\GAMERCENTER\modelogamer\obj\Debug\modelogamer.pdb
